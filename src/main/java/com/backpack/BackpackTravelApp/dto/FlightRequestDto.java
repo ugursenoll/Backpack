@@ -11,4 +11,5 @@ public class FlightRequestDto {
     public List<String> citiesToVisit;
 
 
+
 }
